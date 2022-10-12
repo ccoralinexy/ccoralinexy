@@ -2,7 +2,7 @@
 - 👀 I’m interested in musicals,books,music,travelling
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...1527005634@qq.com
+- 📫 How to reach me ...balabala
 
 <!---
 ccoralinexy/ccoralinexy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
