@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccoralinexy
+- 👋 Hi, I’m @biubiuOnion
 - 👀 I’m interested in musicals,books,music,travelling
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on coding
